@@ -53,7 +53,7 @@ namespace practica3
             }
             catch
             {
-                throw new Exception("Archivo no encontrado");
+                throw new Exception("Archivo de lectura de mapa no encontrado");
             }
 
             string line;

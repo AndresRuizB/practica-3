@@ -9,7 +9,7 @@ namespace practica3
         {
             map mapa = new map(10, 3); //inicializa el mapa
 
-            mapa.ReadMap("HauntedHous.map");  //lee el mapa de archivo
+            mapa.ReadMap("HauntedHouse.map");  //lee el mapa de archivo
 
             player ply = new player();
 
@@ -219,7 +219,19 @@ namespace practica3
 
         static void Lectura(player p, map m, ref bool jugando, Lista mem)
         {
-            StreamReader entry = new StreamReader("memory.txt");
+
+            StreamReader entry;
+
+            try
+            {
+                entry = new StreamReader("memory.txt");
+            }
+            catch
+            {
+                throw new Exception("Archivo de lectura de comandos no encontrado");
+            }
+
+
             string linea;
 
             while (!entry.EndOfStream)

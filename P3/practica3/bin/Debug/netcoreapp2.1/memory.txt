@@ -1,11 +1,1 @@
-go west
-go south
-go east
-go south
-go north
-go south
-go north
-go west
-go east
-go north
 go north
