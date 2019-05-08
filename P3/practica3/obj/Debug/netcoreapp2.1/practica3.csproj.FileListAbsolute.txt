@@ -31,3 +31,14 @@ C:\Users\usuario\Desktop\P3\practica3\obj\Debug\netcoreapp2.1\practica3.Assembly
 C:\Users\usuario\Desktop\P3\practica3\obj\Debug\netcoreapp2.1\practica3.AssemblyInfo.cs
 C:\Users\usuario\Desktop\P3\practica3\obj\Debug\netcoreapp2.1\practica3.dll
 C:\Users\usuario\Desktop\P3\practica3\obj\Debug\netcoreapp2.1\practica3.pdb
+D:\Uni\Primero\SegundoCuatri\P1\Repositorio\practica-3\P3\practica3\bin\Debug\netcoreapp2.1\practica3.deps.json
+D:\Uni\Primero\SegundoCuatri\P1\Repositorio\practica-3\P3\practica3\bin\Debug\netcoreapp2.1\practica3.runtimeconfig.json
+D:\Uni\Primero\SegundoCuatri\P1\Repositorio\practica-3\P3\practica3\bin\Debug\netcoreapp2.1\practica3.runtimeconfig.dev.json
+D:\Uni\Primero\SegundoCuatri\P1\Repositorio\practica-3\P3\practica3\bin\Debug\netcoreapp2.1\practica3.dll
+D:\Uni\Primero\SegundoCuatri\P1\Repositorio\practica-3\P3\practica3\bin\Debug\netcoreapp2.1\practica3.pdb
+D:\Uni\Primero\SegundoCuatri\P1\Repositorio\practica-3\P3\practica3\obj\Debug\netcoreapp2.1\practica3.csprojAssemblyReference.cache
+D:\Uni\Primero\SegundoCuatri\P1\Repositorio\practica-3\P3\practica3\obj\Debug\netcoreapp2.1\practica3.csproj.CoreCompileInputs.cache
+D:\Uni\Primero\SegundoCuatri\P1\Repositorio\practica-3\P3\practica3\obj\Debug\netcoreapp2.1\practica3.AssemblyInfoInputs.cache
+D:\Uni\Primero\SegundoCuatri\P1\Repositorio\practica-3\P3\practica3\obj\Debug\netcoreapp2.1\practica3.AssemblyInfo.cs
+D:\Uni\Primero\SegundoCuatri\P1\Repositorio\practica-3\P3\practica3\obj\Debug\netcoreapp2.1\practica3.dll
+D:\Uni\Primero\SegundoCuatri\P1\Repositorio\practica-3\P3\practica3\obj\Debug\netcoreapp2.1\practica3.pdb

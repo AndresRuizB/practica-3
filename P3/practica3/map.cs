@@ -45,7 +45,16 @@ namespace practica3
 
         public void ReadMap(string file)
         {
-            StreamReader entry = new StreamReader(file);
+            StreamReader entry;
+            try
+            {
+                entry = new StreamReader(file);
+
+            }
+            catch
+            {
+                throw new Exception("Archivo no encontrado");
+            }
 
             string line;
             string[] lineDiv = new string[7];
@@ -71,6 +80,7 @@ namespace practica3
             }
 
             entry.Close();
+
         }
 
         Dungeon CreateDungeon(string[] lineDiv, StreamReader entry)

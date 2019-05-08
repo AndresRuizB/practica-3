@@ -681,23 +681,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\usuario\\.nuget\\packages\\": {},
+    "C:\\Users\\juanm\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usuario\\Desktop\\P3\\practica3\\practica3.csproj",
+      "projectUniqueName": "D:\\Uni\\Primero\\SegundoCuatri\\P1\\Repositorio\\practica-3\\P3\\practica3\\practica3.csproj",
       "projectName": "practica3",
-      "projectPath": "C:\\Users\\usuario\\Desktop\\P3\\practica3\\practica3.csproj",
-      "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usuario\\Desktop\\P3\\practica3\\obj\\",
+      "projectPath": "D:\\Uni\\Primero\\SegundoCuatri\\P1\\Repositorio\\practica-3\\P3\\practica3\\practica3.csproj",
+      "packagesPath": "C:\\Users\\juanm\\.nuget\\packages\\",
+      "outputPath": "D:\\Uni\\Primero\\SegundoCuatri\\P1\\Repositorio\\practica-3\\P3\\practica3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\juanm\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -9,7 +9,7 @@ namespace practica3
         {
             map mapa = new map(10, 3); //inicializa el mapa
 
-            mapa.ReadMap("HauntedHouse.map");  //lee el mapa de archivo
+            mapa.ReadMap("HauntedHous.map");  //lee el mapa de archivo
 
             player ply = new player();
 
@@ -18,7 +18,19 @@ namespace practica3
 
             Lista mem = new Lista();
 
-            Console.WriteLine(mapa.GetDungeonInfo(ply.GetPosition()) + "\n");  //muestra la informacion de la dungeon en la que se encuantra el jugador
+            Console.WriteLine("Que deseas hacer? Cargar partida de archivo(1) o jugar(2)");
+            int resp = int.Parse(Console.ReadLine());
+
+            if (resp == 1)
+            {
+                Lectura(ply, mapa, ref jugando, mem);
+            }
+            else
+            {
+                Console.Clear();
+                Console.WriteLine(mapa.GetDungeonInfo(ply.GetPosition()) + "\n");  //muestra la informacion de la dungeon en la que se encuantra el jugador
+            }
+            
 
             //Lectura(ply, mapa, ref jugando, ref mem);
 
